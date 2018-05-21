@@ -1,0 +1,30 @@
+.box2 {
+    margin: 1em;
+}
+#summary_panel{
+    background-color: #e0e0eb;
+    width: 20%;
+    height: 500px;
+    border-style: groove;
+}
+#tab_panel{
+    width: 75%;
+    height: 75%;
+}
+#summary_heading{
+    height: 10%;
+    background: #b1b1cd;
+    /*padding: 1px;*/
+}
+h3{
+    padding: 0.5em;
+    font-size: 25px;
+}
+#summary_total{
+    bottom: 0;
+    position: absolute;
+}
+.row{
+    margin-right: 3px;
+    margin-left: 3px;
+}
